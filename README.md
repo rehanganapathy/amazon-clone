@@ -1,0 +1,6 @@
+# amazon-clone
+.......
+A full stack amazon clone
+will update all the details once the project is complete, this is just the first part with most of the design componenets and part of the data layer implemented
+will be deployed to firebase and hosted 
+.......
